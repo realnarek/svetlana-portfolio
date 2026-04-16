@@ -1,4 +1,4 @@
-# Svetlana Sirunyan — Nail Master Portfolio
+# Svetlana Sirunanyan — Nail Master Portfolio
 
 Премиальный минималистичный одностраничный сайт-портфолио.
 Чистый HTML + CSS + немного JavaScript. Никаких фреймворков.
