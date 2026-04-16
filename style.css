@@ -420,7 +420,7 @@ body::before {
 
 .skill {
   display: grid;
-  grid-template-columns: 80px 1fr;
+  grid-template-columns: 60px 1fr;
   gap: 2rem;
   padding: 2.5rem 0;
   border-bottom: 1px solid var(--line);
@@ -954,6 +954,20 @@ body::before {
 
   .hero_name {
     font-size: 28px;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .skill {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .skill_num {
+    font-size: 12px;
+    opacity: 0.5;
   }
 
 }
